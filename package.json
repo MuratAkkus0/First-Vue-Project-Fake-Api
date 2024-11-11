@@ -1,0 +1,7 @@
+{
+  "name": "vercel-api-2",
+  "version": "1.0.0",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
